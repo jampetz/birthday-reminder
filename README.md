@@ -9,11 +9,11 @@
 ### Initializing local instance
 
 ```
-cd birthday-reminder/ && npm install && npm start
+cd birthday-reminder && npm install && npm start
 ```
 
 ### Building
 
 ```
-cd birthday-reminder/ && npm run build
+cd birthday-reminder && npm run build
 ```

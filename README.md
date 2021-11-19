@@ -1,18 +1,18 @@
 # Birthday reminder
 
-##[Live instance](https://jam-birthday-reminder.netlify.app/)
+## [Live instance](https://jam-birthday-reminder.netlify.app/)
 
-###Features:
+### Features:
 
 - useState;
 - conditional rendering.
-  ####Initializing local instance
+### Initializing local instance
 
 ```
 cd birthday-reminder/ && npm install && npm start
 ```
 
-####Building
+### Building
 
 ```
 cd birthday-reminder/ && npm run build

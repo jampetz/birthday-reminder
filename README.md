@@ -1,6 +1,7 @@
 # Birthday reminder
 
 ## [Live instance](https://jam-birthday-reminder.netlify.app/)
+![image](https://i.imgur.com/p44SEZZ.png)
 
 ### Features:
 
